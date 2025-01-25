@@ -71,7 +71,8 @@ Each sample includes the following features:
 
 ## Visualizations
 ### Clusters Formed by K-Means
-![Clusters Formed](output.png)
+![Clusters Formed](output1.png)
+![Clusters_Centers](output.png)
 
 ---
 
@@ -112,4 +113,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - **Author**: Sounak
 - **GitHub**: [sounakss7](https://github.com/sounakss7)
-- **Email**: [your_email@example.com](hrick3130@gamil.com)
+- **Email**: [hrick3130@gmail.com](hrick3130@gamil.com)
