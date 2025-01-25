@@ -72,6 +72,7 @@ Each sample includes the following features:
 ## Visualizations
 ### Clusters Formed by K-Means
 ![Clusters Formed](output1.png)
+### Cluster Centers
 ![Clusters_Centers](output.png)
 
 ---
